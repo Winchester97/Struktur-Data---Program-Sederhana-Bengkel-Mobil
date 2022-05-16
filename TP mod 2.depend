@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1550340789 source:d:\school\tel - u\semester 2\struktur data\tugas pendahuluan 2\tp mod 2\main.cpp
+	<iostream>
+	"head.h"
+
+1556227367 d:\school\tel - u\semester 2\struktur data\tugas pendahuluan 2\tp mod 2\head.h
+	<cstddef>
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1556225796 source:d:\school\tel - u\semester 2\struktur data\tugas pendahuluan 2\tp mod 2\list.cpp
+	"head.h"
+
+1556227367 source:d:\school\tel - u\semester 2\struktur data\tugas pendahuluan 2\tp mod 2\tp mod 3.cpp
+	"head.h"
+
